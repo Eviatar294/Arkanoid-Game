@@ -9,8 +9,14 @@ A classic Arkanoid/Breakout game implementation in Java with modern object-orien
 *The game in action showing the paddle, balls, colorful blocks, and score display*
 
 ### Video Demo
-🎬 **[Watch Gameplay Recording](images/running_recording.mp4)**
-*Click to watch the full gameplay demonstration*
+https://github.com/user-attachments/assets/running_recording.mp4
+
+<video width="600" controls>
+  <source src="images/running_recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*Full gameplay demonstration showing ball physics, block destruction, and scoring*
 
 ## 📋 Table of Contents
 - [About](#about)
