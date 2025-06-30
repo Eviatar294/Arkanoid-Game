@@ -10,13 +10,9 @@ A classic Arkanoid/Breakout game implementation in Java with modern object-orien
 
 ### Video Demo
 
-To embed the video directly in the README, you'll need to:
+https://github.com/Eviatar294/Arkanoid-Game/raw/main/images/running_recording.mp4
 
-1. **Option 1 (Recommended)**: Upload the video to GitHub by dragging `images/running_recording.mp4` into a GitHub issue or comment, then copy the generated URL here.
-
-2. **Option 2**: Convert to GIF format for direct embedding.
-
-For now, you can **[download and watch the gameplay recording](images/running_recording.mp4)** to see the full demonstration of ball physics, block destruction, and scoring system.
+*Full gameplay demonstration showing ball physics, block destruction, paddle control, and scoring system*
 
 ## 📋 Table of Contents
 - [About](#about)
