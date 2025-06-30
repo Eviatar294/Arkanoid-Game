@@ -9,10 +9,10 @@ A classic Arkanoid/Breakout game implementation in Java with modern object-orien
 *The game in action showing the paddle, balls, colorful blocks, and score display*
 
 ### Video Demo
-
-https://github.com/Eviatar294/Arkanoid-Game.git
-
 *Full gameplay demonstration showing ball physics, block destruction, paddle control, and scoring system*
+
+https://github.com/Eviatar294/Arkanoid-Game/blob/main/images/running_recording.mp4
+
 
 ## 📋 Table of Contents
 - [About](#about)
