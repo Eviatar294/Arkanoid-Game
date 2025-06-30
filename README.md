@@ -167,7 +167,6 @@ The game features a pyramid-like arrangement of blocks:
 ## 👨‍💻 Author
 
 **Eviatar Sayada**
-- Student ID: 216756650
 - Email: eviatar294@gmail.com
 - Version: 1.0
 - Date: July 9, 2024
